@@ -1,0 +1,24 @@
+{
+  "name": "Products",
+  "fields": [
+    {
+      "name": "title"
+    },
+    {
+      "name": "description"
+    },
+    {
+      "name": "ingredients"
+    },
+    {
+      "name": "nutritionalInfo"
+    },
+    {
+      "name": "content"
+    },
+    {
+      "name": "Cover Image",
+      "type": "Link"
+    }
+  ]
+}
