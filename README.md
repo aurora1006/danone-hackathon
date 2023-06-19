@@ -19,8 +19,6 @@ Next.js
 
 Node >= 16
 
-TypeScript
-
 Tailwind css
 
 GraphQL
