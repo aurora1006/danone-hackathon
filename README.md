@@ -106,14 +106,14 @@ Objetivos de configuración
 
 Día 1
 
-| Spring 1 (5hrs)                
+| Sprint 1 (5hrs)                
 |--------------------------------
 | Generar la base del proyecto           
 | Toma de decisión CSS - Tailwind css ya que podía configurarla desde la creación del proyecto.
 | Configurar gestor de contenido Contentful, siguiendo la documentación proporcionada en el Readme  de Front end
 | Configurar de despligue
 
-| Spring 2 (5hrs)                
+| Sprint 2 (5hrs)                
 |--------------------------------
 | Página de inicio     
 | Generación componente Header    
@@ -125,14 +125,14 @@ Día 1
 
 Día 2
 
-| Spring 3 (5hrs)                
+| Sprint 3 (5hrs)                
 |--------------------------------
 | Página de configuración de calorías diarias    
 | Página de productos v1
 | Uso GraphQL en Contentful
 | Creación de ProductosCollection
 
-| Spring 4 (5hrs)                
+| Sprint 4 (5hrs)                
 |--------------------------------
 | Configuración para consumir API
 | Página de productos v2. 
